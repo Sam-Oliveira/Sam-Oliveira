@@ -1,4 +1,4 @@
-## Hi there 👋
+## [Samuel Oliveira](https://sam-oliveira.github.io/#about) 🇵🇹 🇬🇧 🇨🇦
 
 <!--
 **Sam-Oliveira/Sam-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! I'm Samuel. I'm a PhD student at the [RLAI Lab](https://rlai.ualberta.ca/) at the University of Alberta 🇨🇦 . I am also affiliated with [Amii](https://www.amii.ca/). 
+
+- 🤖 ♾️ I work on creating Reinforcement Learning agents that can learn continually and forever, without forgetting previous knowledge.
+- :computer: I often code in Python and PyTorch. I also have experience with SQL, Terraform, and with AWS.
+- :books: I'm currently learning more about Robot Learning.
+- :pushpin: I'm originally from Portugal :portugal:
+- :mortar_board: I previously studied at UCL and Imperial College London 🇬🇧
+- :bulb: I previously did research in the intersection of RL and diffusion models, as well as in ML applied to healthcare.
+- :outbox_tray: Reach out for any job opportunities or to discuss anything ML/AI related: samuelccoliveira at gmail dot com
